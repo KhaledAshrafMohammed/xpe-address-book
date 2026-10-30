@@ -1,0 +1,2 @@
+* text=auto eol=lf
+address-book-backend/tests/AddressBook.Tests/TestData/*.txt -text -whitespace
